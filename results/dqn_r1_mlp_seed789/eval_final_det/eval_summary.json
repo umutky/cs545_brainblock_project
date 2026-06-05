@@ -1,0 +1,17 @@
+{
+  "model": "results/dqn_r1_mlp_seed789/final_model.pt",
+  "reward_mode": "sparse",
+  "encoder": "mlp",
+  "mode": "deterministic",
+  "epsilon": 0.0,
+  "episodes": 1000,
+  "seed": 999,
+  "success_rate": 0.0,
+  "mean_reward": 0.0,
+  "std_reward": 0.0,
+  "mean_length": 6.68,
+  "std_length": 1.1151681487560519,
+  "mean_coverage": 0.668,
+  "invalid_rate": 0.0,
+  "unique_tilings": 0
+}

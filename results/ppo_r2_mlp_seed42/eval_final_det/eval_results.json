@@ -1,0 +1,10 @@
+{
+  "episodes": 1000,
+  "success_rate": 0.991,
+  "mean_reward": 1.934552,
+  "std_reward": 0.10977009290330403,
+  "mean_length": 9.984,
+  "invalid_rate": 0.0,
+  "mean_coverage": 0.9984000000000001,
+  "unique_solutions_found": 2
+}

@@ -1,0 +1,22 @@
+{
+  "reward": "shaped",
+  "encoder": "mlp",
+  "lr": 0.0003,
+  "gamma": 0.99,
+  "batch_size": 64,
+  "hidden_dim": 256,
+  "max_grad_norm": 0.5,
+  "tau": 0.005,
+  "buffer_size": 500000,
+  "learning_starts": 10000,
+  "train_freq": 4,
+  "epsilon_start": 1.0,
+  "epsilon_end": 0.05,
+  "epsilon_decay_steps": 500000,
+  "seed": 42,
+  "total_timesteps": 2000000,
+  "log_interval": 10,
+  "log_freq": 10000,
+  "save_interval": 100000,
+  "output_dir": "results/dqn_full_seed42"
+}

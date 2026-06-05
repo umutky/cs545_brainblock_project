@@ -1,0 +1,17 @@
+{
+  "model": "results/dqn_r2_mlp_seed123/best_model.pt",
+  "reward_mode": "shaped",
+  "encoder": "mlp",
+  "mode": "deterministic",
+  "epsilon": 0.0,
+  "episodes": 1000,
+  "seed": 999,
+  "success_rate": 1.0,
+  "mean_reward": 1.945,
+  "std_reward": 2.220446049250313e-16,
+  "mean_length": 10.0,
+  "std_length": 0.0,
+  "mean_coverage": 1.0,
+  "invalid_rate": 0.0,
+  "unique_tilings": 13
+}

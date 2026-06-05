@@ -1,0 +1,11 @@
+{
+  "episodes": 1000,
+  "mode": "stochastic",
+  "success_rate": 0.996,
+  "mean_reward": 1.9404579999999998,
+  "std_reward": 0.07172929830968652,
+  "mean_length": 9.994,
+  "invalid_rate": 0.0,
+  "mean_coverage": 0.9994000000000001,
+  "unique_solutions_found": 2
+}

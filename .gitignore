@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Model binaries — checkpoints excluded, best/final models tracked
+checkpoint_*.pt
+*.npz
+
+# Logs & temp
+logs/
+*.log
+*.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
