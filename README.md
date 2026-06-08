@@ -24,7 +24,7 @@ The search space is combinatorially large and most random placements quickly rea
 
 Two parallel pipelines were implemented and compared:
 
-| | PPO (Member A) | DQN (Member B) |
+| | PPO | DQN |
 |---|---|---|
 | Algorithm | Proximal Policy Optimization | Deep Q-Network |
 | Encoder | MLP (256-dim) | MLP (256-dim) |
